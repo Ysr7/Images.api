@@ -2,12 +2,12 @@ using System;
 
 namespace Core.Entities
 {
-    public class Images
+    public class Image
     {
         public int Id { get; set; }
         public string Descripion { get; set; }
-        public double Size { get; set; }
-        public string Path { get; set; }
+        public int Length { get; set; }
+        public string Picture { get; set; }
         public DateTime Data { get; set; }
     }
 }
