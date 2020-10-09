@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj": {}
+    "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj": {}
   },
   "projects": {
-    "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj": {
+    "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj",
+        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj",
         "projectName": "02_DI",
-        "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj",
+        "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj",
         "packagesPath": "/home/yuri/.nuget/packages/",
-        "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/",
+        "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj": {
-                "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj"
+              "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/Services.csproj": {
+                "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/Services.csproj"
               },
-              "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj": {
-                "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj"
+              "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj": {
+                "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj": {
+    "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj",
+        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj",
+        "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj",
         "packagesPath": "/home/yuri/.nuget/packages/",
-        "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/obj/",
+        "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -131,14 +131,14 @@
         }
       }
     },
-    "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj": {
+    "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj",
+        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/Services.csproj",
         "projectName": "Services",
-        "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj",
+        "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/Services.csproj",
         "packagesPath": "/home/yuri/.nuget/packages/",
-        "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/obj/",
+        "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -152,8 +152,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj": {
-                "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj"
+              "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj": {
+                "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj": {
+    "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj",
+        "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj",
+        "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj",
         "packagesPath": "/home/yuri/.nuget/packages/",
-        "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/obj/",
+        "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -206,8 +206,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj": {
-                "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj"
+              "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj": {
+                "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj"
               }
             }
           }

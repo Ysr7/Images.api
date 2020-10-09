@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj",
+      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj",
+      "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj",
       "packagesPath": "/home/yuri/.nuget/packages/",
-      "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/obj/",
+      "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yuri/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXfKM1cJ8RacwwN4LAadxHvvyWReFUlRV30u9r1bT/aUKJp6AZUPqontWvGN5pXigYR4kL1+BcSyEUfwfTKa0g==",
+  "dgSpecHash": "OVe8MXuxnvJEHdJipud0poLN0lUmra9L4BbaouWlSYi3atPTBJVhzu1RvXHwcPuk6XcZUeX9W6/oUpp6h4mV7Q==",
   "success": true,
-  "projectFilePath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj",
+  "projectFilePath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

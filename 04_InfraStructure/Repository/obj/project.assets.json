@@ -1188,11 +1188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj",
+      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj",
+      "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/Repository.csproj",
       "packagesPath": "/home/yuri/.nuget/packages/",
-      "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/obj/",
+      "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -1206,8 +1206,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj": {
-              "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/Core.csproj"
+            "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj": {
+              "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/Core.csproj"
             }
           }
         }

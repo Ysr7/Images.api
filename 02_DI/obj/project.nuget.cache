@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jD/Z8wD8r89IqHwkFje04a5c7uscGdcEgSO2yfVikdbwm+h+hIF/msGymlDV6qFpvKUBundZyOQ1IPLfxdFvVw==",
+  "dgSpecHash": "+vYyXh+jTLlVqTHrzsPb2DMUMPlFSuGVBqP8Tnhos8JyzbezsXePN9Bi1yad5XZKwCO2PtYCWgRpY3SRJSHe1w==",
   "success": true,
-  "projectFilePath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj",
+  "projectFilePath": "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj",
   "expectedPackageFiles": [
     "/home/yuri/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/home/yuri/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

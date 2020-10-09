@@ -10,3 +10,15 @@
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.csproj.CopyComplete
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.dll
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.pdb
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/bin/Debug/netstandard2.1/Repository.deps.json
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/bin/Debug/netstandard2.1/Repository.dll
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/bin/Debug/netstandard2.1/Repository.pdb
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/bin/Debug/netstandard2.1/Core.dll
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/bin/Debug/netstandard2.1/Core.pdb
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.csprojAssemblyReference.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.AssemblyInfoInputs.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.AssemblyInfo.cs
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.csproj.CoreCompileInputs.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.csproj.CopyComplete
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.dll
+/home/yuri/Documentos/Projetos GitHub/Images.api/04_InfraStructure/Repository/obj/Debug/netstandard2.1/Repository.pdb
