@@ -6,3 +6,12 @@
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/obj/Debug/netstandard2.1/Core.dll
 /home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Core/obj/Debug/netstandard2.1/Core.pdb
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/bin/Debug/netstandard2.1/Core.deps.json
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/bin/Debug/netstandard2.1/Core.dll
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/bin/Debug/netstandard2.1/Core.pdb
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.dll
+/home/yuri/Documentos/Projetos GitHub/Images.api/03_Domain/Core/obj/Debug/netstandard2.1/Core.pdb

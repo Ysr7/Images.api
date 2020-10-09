@@ -6105,11 +6105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/01_Presentation/API/API.csproj",
+      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/01_Presentation/API/API.csproj",
+      "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/API.csproj",
       "packagesPath": "/home/yuri/.nuget/packages/",
-      "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/01_Presentation/API/obj/",
+      "outputPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yuri/.nuget/NuGet/NuGet.Config"
@@ -6123,8 +6123,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj": {
-              "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj"
+            "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj": {
+              "projectPath": "/home/yuri/Documentos/Projetos GitHub/Images.api/02_DI/02_DI.csproj"
             }
           }
         }
