@@ -8,6 +8,6 @@ namespace Core.Entities
         public string Descripion { get; set; }
         public int Length { get; set; }
         public string Picture { get; set; }
-        public DateTime Data { get; set; }
+        public DateTime Date { get; set; }
     }
 }

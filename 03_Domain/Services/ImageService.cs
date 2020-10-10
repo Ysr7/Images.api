@@ -32,7 +32,7 @@ namespace Services
                 Descripion = descripion,
                 Length = length.Value,
                 Picture = picture,
-                Data = DateTime.Now
+                Date = DateTime.Now
             };
 
             await _unitOfWork.ImageRepository.AddAsync(image);
