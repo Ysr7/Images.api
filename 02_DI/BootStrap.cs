@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Repository;
+using Services;
 
 namespace _02_DI
 {
@@ -22,6 +23,7 @@ namespace _02_DI
                 options.UseLazyLoadingProxies();
             });
             services.AddTransient<IUnitOfWork, UnitOfWork>();
+            services.AddTransient<IImageService, ImageService>();
         }
     }
 }
