@@ -29,7 +29,6 @@ namespace API
                         builder
                             .AllowAnyHeader()
                             .AllowAnyMethod()
-                            .WithOrigins(Configuration["CORS:Origins"].Split(";"))
                             .SetIsOriginAllowedToAllowWildcardSubdomains()
                             .AllowCredentials());
             });

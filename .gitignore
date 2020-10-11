@@ -48,3 +48,5 @@ obj/Debug/netstandart2.1
 /02_DI/obj/
 /01_Presentation/API/bin/
 /01_Presentation/API/obj/
+.vscode/launch.json
+.vscode/tasks.json
