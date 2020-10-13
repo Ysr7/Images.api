@@ -18,10 +18,12 @@ namespace Services
         }
 
         public Image Consult(int idImage) =>
-           _unitOfWork.ImageRepository.FirstOrDefault(item => item.Id == idImage);
+           _unitOfWork.ImageRepository.FirstOrDefault(item => item.Id == idImage)
+           ?? throw new ArgumentException("Imagem não encontrada");
 
         public IEnumerable<Image> GetAll() =>
-          _unitOfWork.ImageRepository.GetAll();
+          _unitOfWork.ImageRepository.GetAll()
+          ?? throw new ArgumentNullException("Não possui nenhuma imagem");
 
         public async Task<int> RegisterAsync(string descripion, int? length, string picture) 
         {

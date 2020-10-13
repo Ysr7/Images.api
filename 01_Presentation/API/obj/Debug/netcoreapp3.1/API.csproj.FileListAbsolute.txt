@@ -104,3 +104,4 @@
 /home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/obj/Debug/netcoreapp3.1/API.dll
 /home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/obj/Debug/netcoreapp3.1/API.pdb
 /home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/home/yuri/Documentos/Projetos GitHub/Images.api/01_Presentation/API/bin/Debug/netcoreapp3.1/appsettings.Development.json
