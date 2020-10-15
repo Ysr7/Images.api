@@ -8,8 +8,8 @@ namespace Core.Interfaces.Repositories
     {
         Image Consult(int idImage);
         IEnumerable<Image> GetAll();
-        Task<int> RegisterAsync(string descripion, int? length, string picture);
-        Task UpdateAsync(int idImage, string descripion, int? length, string picture);
+        Task<int> RegisterAsync(string descripion, string length, string picture, string title);
+        Task UpdateAsync(int idImage, string descripion, string length, string picture, string title);
         void Delete(int idImage);
     }
 }

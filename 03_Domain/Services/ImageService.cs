@@ -25,15 +25,16 @@ namespace Services
           _unitOfWork.ImageRepository.GetAll()
           ?? throw new ArgumentNullException("Não possui nenhuma imagem");
 
-        public async Task<int> RegisterAsync(string descripion, int? length, string picture) 
+        public async Task<int> RegisterAsync(string descripion, string length, string picture, string title) 
         {
-            if (!length.HasValue)
-                throw new ArgumentException("Tamaho é obrigatório");
+            if (descripion == null)
+                throw new ArgumentException("Descrição é obrigatório");
 
             var image = new Image {
                 Descripion = descripion,
-                Length = length.Value,
+                Length = length,
                 Picture = picture,
+                Title = title,
                 Date = DateTime.Now
             };
 
@@ -43,13 +44,14 @@ namespace Services
             return image.Id;
         }
 
-         public async Task UpdateAsync(int idImage, string descripion, int? length, string picture) 
+         public async Task UpdateAsync(int idImage, string descripion, string length, string picture, string title) 
         {
             Image image = Consult(idImage);
 
             image.Descripion = descripion;
-            image.Length = length.Value;
+            image.Length = length;
             image.Picture = picture;
+            image.Title = title;
 
             await  _unitOfWork.ImageRepository.UpdateAsync(image);
             _unitOfWork.Commit();

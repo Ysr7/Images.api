@@ -11,6 +11,8 @@ namespace Repository.Configurations
         {
             builder.HasKey(item => item.Id);
 
+            builder.Property (item => item.Title).HasMaxLength(155);
+
             builder.Property (item => item.Descripion).HasMaxLength(155).IsRequired();
            
             builder.ToTable("Images");

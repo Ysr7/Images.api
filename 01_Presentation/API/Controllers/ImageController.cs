@@ -25,7 +25,7 @@ namespace API.Controllers
 
         [HttpPost]
         public async Task<IActionResult> RegisterAsync([FromBody] ImageModel image) =>
-             Ok(await _imageService.RegisterAsync(image.Descripion, image.Length, image.Picture));
+             Ok(await _imageService.RegisterAsync(image.Descripion, image.Length, image.Picture, image.Title));
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
@@ -41,7 +41,8 @@ namespace API.Controllers
                 id,
                 image.Descripion,
                 image.Length,
-                image.Picture
+                image.Picture,
+                image.Title
             );
             return Ok();
         }
