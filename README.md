@@ -1,6 +1,6 @@
 # Images.Api
 
-Esta é uma API .Net que integra com um app flutter possuindo as funçoes de cadastrar,listar,excluir,like e dislike em imagens
+Esta é uma API .Net que integra com um app flutter possuindo as funções de cadastrar,listar,excluir,like e dislike em imagens
 
 ## Instalação da Api
 
