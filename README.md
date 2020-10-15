@@ -42,5 +42,7 @@ Recomendo uso do arquivo no Postman
 ### Guia de Instalação Docker:
 
 • Windows: https://docs.docker.com/docker-for-windows/install/
+
 • MacOSX: https://docs.docker.com/docker-for-mac/install/
+
 • Linux: https://www.digitalocean.com/community/tutorials/como-instalar-eusar-o-docker-no-ubuntu-18-04-pt
