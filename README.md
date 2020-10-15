@@ -27,7 +27,8 @@ Vamos abrir o teminal do VSCode na pasta 01_Presentation/API e rodar o camando a
 dotnet run
 ```
 
-## Arquivo de collections
+## Arquivo de collections 
 
+Recomendo uso do arquivo no Postman
 
 [Collections da API](https://drive.google.com/file/d/11xAO6Yq32ftFrQawaxHOkGJjPQfh7lcz/view?usp=sharing)
