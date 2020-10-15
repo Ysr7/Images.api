@@ -9,7 +9,7 @@ services:
         environment: 
             - MYSQL_ROOT_PASSWORD=123456
             - MYSQL_ROOT_HOST=%
-            - MYSQL_DATABASE=sa
+            - MYSQL_DATABASE=db
             - MYSQL_USER=yuri
             - MYSQL_PASSWORD=123456
         ports: 
