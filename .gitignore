@@ -6,7 +6,7 @@
 
 Dockerfile
 **/appsettings.json
-**/appsettings.Development.json
+# **/appsettings.Development.json
 **/appsettings.Staging.json
 **/appsettings.Production.json
 04_InfraStructure/DAL/MySQL/DAO/bin/
