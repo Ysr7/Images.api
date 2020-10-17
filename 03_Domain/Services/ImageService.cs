@@ -27,19 +27,8 @@ namespace Services
 
         public async Task<int> RegisterAsync(string descripion, string length, string picture, string title)
         {
-            if (String.IsNullOrEmpty(descripion))
-                throw new ArgumentException("Descrição é obrigatório");
 
-            if (String.IsNullOrEmpty(picture))
-                throw new ArgumentException("Foto é obrigatório");
-
-            if (String.IsNullOrEmpty(title))
-                throw new ArgumentException("Título é obrigatório");
-
-            if (String.IsNullOrEmpty(length))
-                throw new ArgumentException("Tamanho da foto é obrigatório");
-
-            var image = new Image
+            Image image = new Image
             {
                 Descripion = descripion,
                 Length = length,
@@ -47,6 +36,8 @@ namespace Services
                 Title = title,
                 Date = DateTime.Now
             };
+
+            image.Validate();
 
             await _unitOfWork.ImageRepository.AddAsync(image);
             _unitOfWork.Commit();
@@ -62,6 +53,8 @@ namespace Services
             image.Length = length;
             image.Picture = picture;
             image.Title = title;
+
+            image.Validate();
 
             await _unitOfWork.ImageRepository.UpdateAsync(image);
             _unitOfWork.Commit();
